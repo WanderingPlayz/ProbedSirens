@@ -19,7 +19,7 @@
           "is_3Dcostume_url?": true,
           "Mapcostume": "1",
           "is_Mapcostume_url?": true,
-          "min": 500,
+          "min": 499,
           "max": 500
         }
       ]
