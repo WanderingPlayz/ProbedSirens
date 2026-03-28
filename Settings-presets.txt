@@ -10,8 +10,8 @@
           "is_3Dcostume_url?": true,
           "Mapcostume": "0",
           "is_Mapcostume_url?": true,
-          "min": 20,
-          "max": 20
+          "min": 0,
+          "max": 0
         },
         {
           "id": 1,
@@ -19,8 +19,8 @@
           "is_3Dcostume_url?": true,
           "Mapcostume": "1",
           "is_Mapcostume_url?": true,
-          "min": 300,
-          "max": 400
+          "min": 500,
+          "max": 500
         }
       ]
     },
