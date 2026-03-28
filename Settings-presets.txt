@@ -1,1 +1,51 @@
-{"type":"settings","difficulty":[{"name":"Normal","objects":[{"id":0,"costume":"URL","is_costume_url?":true,"min":4,"max":6},{"id":1,"costume":"URL","is_costume_url?":true,"min":100,"max":150}]},{"name":"Hard","objects":[{"id":0,"costume":"URL","is_costume_url?":true,"min":6,"max":8},{"id":1,"costume":"URL","is_costume_url?":true,"min":150,"max":250}]}]}
+{
+  "type": "settings",
+  "difficulty": [
+    {
+      "name": "Normal",
+      "objects": [
+        {
+          "id": 0,
+          "3Dcostume": "URL",
+          "is_3Dcostume_url?": true,
+          "Mapcostume": "URL",
+          "is_Mapcostume_url?": true,
+          "min": 4,
+          "max": 6
+        },
+        {
+          "id": 1,
+          "3Dcostume": "URL",
+          "is_3Dcostume_url?": true,
+          "Mapcostume": "URL",
+          "is_Mapcostume_url?": true,
+          "min": 100,
+          "max": 150
+        }
+      ]
+    },
+    {
+      "name": "Hard",
+      "objects": [
+        {
+          "id": 0,
+          "3Dcostume": "URL",
+          "is_3DCostume_url?": true,
+          "Mapcostume": "URL",
+          "is_Mapcostume_url?": true,
+          "min": 6,
+          "max": 8
+        },
+        {
+          "id": 1,
+          "3Dcostume": "URL",
+          "is_3Dcostume_url?": true,
+          "Mapcostume": "URL",
+          "is_Mapcostume_url?": true,
+          "min": 150,
+          "max": 250
+        }
+      ]
+    }
+  ]
+}
